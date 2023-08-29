@@ -1,9 +1,9 @@
 **Sales Insights Project**
-
+---
 Welcome to the Sales Insights Project! This repository showcases an in-depth sales analysis conducted using Power BI to extract valuable insights from provided SQL data. The primary objective of this project was to uncover revenue trends and identify the most profitable markets, ultimately providing stakeholders with actionable insights to optimize their sales strategies.
 
 **Project Overview**
-
+---
 In this project, I utilized Power BI to analyze a robust sales dataset, delving into various aspects of the data to draw meaningful conclusions. The analysis focused on:
 
 **Data Cleaning and Preparation:** To ensure the accuracy and reliability of the analysis, the first step involved comprehensive data cleaning. This encompassed tasks such as date and currency formatting, removal of duplicates, and elimination of irrelevant values. 
