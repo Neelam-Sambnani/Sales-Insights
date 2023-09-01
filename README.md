@@ -10,13 +10,40 @@ In this project, I utilized Power BI to analyze a robust sales dataset, delving 
 
 **Sales Trends:**  I examined historical sales data to identify patterns, seasonal trends, and growth trajectories. This enabled stakeholders to understand the overall health of their business and make informed decisions.
 
+
+
+
+
+![Screenshot (17)](https://github.com/Neelam-Sambnani/Sales-Insights/assets/125915800/2ddd43ae-41cc-4d80-8c9b-05f1186dd2ea)
+
+
+
+
+
+
 **Product Performance:** By analyzing sales data, I determined the top-performing products in terms of revenue and volume. This insight guided product inventory and marketing strategies.
 
 **Channel Revenue:** I investigated sales revenue generated from different channels such as online platforms, retail stores, and distribution partners. This helped stakeholders allocate resources effectively to maximize revenue streams.
 
 **Customer Insights:** Through customer segmentation and analysis, I identified the top customers contributing significantly to the company's revenue. This information is crucial for maintaining strong customer relationships and personalized marketing efforts.
 
+
+
+
+
+![Screenshot (19)](https://github.com/Neelam-Sambnani/Sales-Insights/assets/125915800/be3bfe62-9b29-4958-ab47-71a7184b6999)
+
+
+
 **Geographical Analysis:**  I examined sales data based on geographic regions, pinpointing cities that generated the highest revenue. This allowed stakeholders to optimize their distribution and marketing strategies at a local level.
+
+
+
+
+
+![Screenshot (21)](https://github.com/Neelam-Sambnani/Sales-Insights/assets/125915800/cab808f5-7ad0-4e6a-b40b-bc0472734af1)
+
+
 
 **Key Contributions**
 ---
@@ -29,6 +56,17 @@ In this project, I utilized Power BI to analyze a robust sales dataset, delving 
 **Interactive Dashboards**
 ---
 I designed interactive dashboards in Power BI, presenting the analysis findings visually through various charts, graphs, and tables. These dashboards offer stakeholders an intuitive way to explore and understand the data, facilitating quick decision-making.
+
+
+
+
+
+![Screenshot (23)](https://github.com/Neelam-Sambnani/Sales-Insights/assets/125915800/86e4e5eb-7a86-46c2-a0ac-7a7d3011dcf7)
+
+
+
+
+
 
 **Actionable Insights**
 ----
