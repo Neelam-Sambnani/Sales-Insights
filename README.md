@@ -78,4 +78,13 @@ The insights derived from this project empower stakeholders to:
 
 **Enhance Geographic Focus:** Knowing the cities generating the most revenue allows for tailored distribution strategies and localized marketing initiatives.
 
+**Challenges Faced:**
+---
+
+**Data Cleaning Complexity:**  Dealing with diverse data formats, date inconsistencies, and removing duplicates required extensive data cleaning efforts to ensure the accuracy of the analysis.
+
+**Interpretation and Context:**  Understanding the nuances of the sales domain and interpreting complex sales trends accurately required domain expertise.
+
+**Dashboard Design:**  Designing interactive and visually appealing dashboards while conveying complex sales insights in a user-friendly manner presented design and communication challenges.
+
 
