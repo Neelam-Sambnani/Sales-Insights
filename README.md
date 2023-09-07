@@ -93,4 +93,8 @@ The insights derived from this project empower stakeholders to:
 
 **Dashboard Design:**  Designing interactive and visually appealing dashboards while conveying complex sales insights in a user-friendly manner presented design and communication challenges.
 
+**Future Scope**
+---
+In the future, this project can be expanded to include predictive modeling for sales forecasting and advanced customer segmentation techniques. Real-time data integration and automation could further enhance decision-making capabilities.
+
 
