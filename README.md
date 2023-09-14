@@ -3,6 +3,89 @@
 Welcome to the Sales Insights Project! This repository showcases an in-depth sales analysis conducted using Power BI to extract valuable insights from provided SQL data. The primary objective of this project was to uncover revenue trends and identify the most profitable markets, ultimately providing stakeholders with actionable insights to optimize their sales strategies.
 
 
+**Data Description**
+---
+The Sales Insights Project is built upon a comprehensive dataset that encompasses several key tables, providing a rich source of information for in-depth analysis. Here's an overview of the main tables and their contents:
+
+
+
+
+
+
+
+
+![Screenshot (50)](https://github.com/Neelam-Sambnani/Sales-Insights/assets/125915800/6bc3e8e6-4f00-431d-9001-1eab2d7238cc)
+
+
+
+
+
+
+
+
+
+
+**Data Exploration**
+---
+
+
+
+
+
+
+
+
+![Screenshot (52)](https://github.com/Neelam-Sambnani/Sales-Insights/assets/125915800/b11c696e-a882-4e57-ba73-7df8ed4eedaf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Tools and Technologies Used**
 ---
 **Tools:**  Power BI, My SQL
