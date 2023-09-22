@@ -1,3 +1,20 @@
+
+
+
+
+
+![events_webinar_FY21_Q1SalesAndFinance_banners_1600x900_social-1](https://github.com/Neelam-Sambnani/Sales-Insights/assets/125915800/f4f526d3-bbcf-4100-b452-b8b3b4c3d986)
+
+
+
+
+
+
+
+
+
+
+
 **Sales Insights Project**
 ---
 Welcome to the Sales Insights Project! This repository showcases an in-depth sales analysis conducted using Power BI to extract valuable insights from provided SQL data. The primary objective of this project was to uncover revenue trends and identify the most profitable markets, ultimately providing stakeholders with actionable insights to optimize their sales strategies.
